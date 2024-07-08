@@ -38,5 +38,4 @@ Here are some of the projects I'm proud of:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 ### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=datamugger&show_icons=true&locale=en&layout=compact)

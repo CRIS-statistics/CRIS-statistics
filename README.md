@@ -19,7 +19,7 @@ I'm a data analyst passionate about deriving insights from data and solving real
 
 🔗 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/cris-santos-265347245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://twitter.com/crisantuskabis)
+- [Twitter](https://x.com/SantozCris?t=aeQHxk3FvsKxicXuItElJg&s=09)
 
 ⚡ **Fun fact:** I enjoy hiking and collecting vintage maps from around the world.
 

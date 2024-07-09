@@ -29,7 +29,7 @@ I'm a data analyst passionate about deriving insights from data and solving real
 
 Here are some of the projects I'm proud of:
 
-- **[Customer Churn Analysis](link-to-project):** Analyzed customer behavior data to predict churn using logistic regression.
+- [EDA on car price predictions](Car-price-prediction-EDA):** Analyzed customer behavior data to predict churn using logistic regression.
 - **[COVID-19 Data Visualization](link-to-project):** Visualized pandemic data trends using Tableau and Python's Matplotlib.
 - **[Time Series Forecasting with ARIMA](link-to-project):** Developed a forecasting model for sales data using ARIMA in R.
 

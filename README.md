@@ -15,7 +15,7 @@ I'm a data analyst passionate about deriving insights from data and solving real
 
 📫 **How to reach me:** 
 - LinkedIn: [Crisantus Kabis](https://www.linkedin.com/in/cris-santos-265347245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: crisantus90@gmail.com
+- Email: melaniejohnson4321@gmail.com
 
 🔗 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/cris-santos-265347245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
